@@ -21,5 +21,5 @@ I would create a REST API that works with a "data" source of questions and answe
 
 ### Code
 
-Please click the **"View on Github"** buttom on the top of the page to see the project code
+Please click the **"View on Github"** buttom on the top of the page to see the project code and other works.
 
